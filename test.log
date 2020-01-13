@@ -1,0 +1,32 @@
+12-01-2020 20:13:23 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): en.wikipedia.org:443
+12-01-2020 20:13:23 urllib3.connectionpool:DEBUG:https://en.wikipedia.org:443 "GET /wiki/2019_in_spaceflight HTTP/1.1" 200 148730
+12-01-2020 20:13:23 __main__:INFO:
+Download content from Wikipedia:https://en.wikipedia.org/wiki/2019_in_spaceflight#Orbital_launches
+12-01-2020 20:13:24 __main__:INFO:
+Content from Wiki has been parsed to DataFrame.
+12-01-2020 20:13:25 __main__:INFO:
+Data has been cleaned and processed.
+12-01-2020 20:13:25 __main__:INFO:
+The data has been written into "output.csv".
+12-01-2020 20:13:44 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): en.wikipedia.org:443
+12-01-2020 20:13:44 urllib3.connectionpool:DEBUG:https://en.wikipedia.org:443 "GET /wiki/2019_in_spaceflight HTTP/1.1" 200 148730
+12-01-2020 20:13:45 __main__:INFO:
+Download content from Wikipedia:https://en.wikipedia.org/wiki/2019_in_spaceflight#Orbital_launches
+12-01-2020 20:13:45 __main__:DEBUG:
+Can not download content from:https://en.wikipedia.org/wiki/2019_in_spaceflight#Orbital_launches. Maybe check your network.
+12-01-2020 20:13:45 __main__:WARNING:
+Nothing to parse.
+12-01-2020 20:13:45 __main__:WARNING:
+Nothing to process.
+12-01-2020 20:13:45 __main__:INFO:
+The data has been written into "output.csv".
+12-01-2020 20:14:14 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): en.wikipedia.org:443
+12-01-2020 20:14:14 urllib3.connectionpool:DEBUG:https://en.wikipedia.org:443 "GET /wiki/2019_in_spaceflight HTTP/1.1" 200 148730
+12-01-2020 20:14:14 __main__:INFO:
+Download content from Wikipedia:https://en.wikipedia.org/wiki/2019_in_spaceflight#Orbital_launches
+12-01-2020 20:14:15 __main__:INFO:
+Content from Wiki has been parsed to DataFrame.
+12-01-2020 20:14:15 __main__:INFO:
+Data has been cleaned and processed.
+12-01-2020 20:14:15 __main__:INFO:
+The data has been written into "output.csv".
